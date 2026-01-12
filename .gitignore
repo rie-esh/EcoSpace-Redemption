@@ -1,0 +1,18 @@
+# GameMaker temporary files
+*.tmp
+*.bak
+*.autosave
+
+# Cache
+*.yyz
+*.yymps
+*.cache
+.cache/
+
+# Local user files
+*.user
+local_settings.json
+
+# Builds
+/bin/
+/builds/
