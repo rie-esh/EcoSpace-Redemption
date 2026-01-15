@@ -1,4 +1,18 @@
 {
-  "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"earths_sptrites","order":3,"path":"folders/earths_sptrites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_controller","order":1,"path":"objects/obj_controller/obj_controller.yy",},
+    {"name":"obj_level_select","order":2,"path":"objects/obj_level_select/obj_level_select.yy",},
+    {"name":"intro","order":4,"path":"rooms/intro/intro.yy",},
+    {"name":"level_select","order":5,"path":"rooms/level_select/level_select.yy",},
+    {"name":"outro","order":6,"path":"rooms/outro/outro.yy",},
+    {"name":"rm_level1","order":1,"path":"rooms/rm_level1/rm_level1.yy",},
+    {"name":"rm_level2","order":2,"path":"rooms/rm_level2/rm_level2.yy",},
+    {"name":"rm_level3","order":3,"path":"rooms/rm_level3/rm_level3.yy",},
+    {"name":"spr_earth_clean2","order":1,"path":"sprites/spr_earth_clean2/spr_earth_clean2.yy",},
+    {"name":"spr_earth_clean3","order":3,"path":"sprites/spr_earth_clean3/spr_earth_clean3.yy",},
+    {"name":"spr_erath_clean1","order":2,"path":"sprites/spr_erath_clean1/spr_erath_clean1.yy",},
+  ],
 }
