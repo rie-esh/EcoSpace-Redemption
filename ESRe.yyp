@@ -11,6 +11,8 @@
   "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"earths_sptrites","folderPath":"folders/earths_sptrites.yy","name":"earths_sptrites","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"music","folderPath":"folders/music.yy","name":"music","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"objects","folderPath":"folders/objects.yy","name":"objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"rooms","folderPath":"folders/rooms.yy","name":"rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
@@ -31,6 +33,8 @@
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
     {"id":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
     {"id":{"name":"rm_level3","path":"rooms/rm_level3/rm_level3.yy",},},
+    {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
+    {"id":{"name":"Sound2","path":"sounds/Sound2/Sound2.yy",},},
     {"id":{"name":"spr_earth_clean2","path":"sprites/spr_earth_clean2/spr_earth_clean2.yy",},},
     {"id":{"name":"spr_earth_clean3","path":"sprites/spr_earth_clean3/spr_earth_clean3.yy",},},
     {"id":{"name":"spr_earth_dirty","path":"sprites/spr_earth_dirty/spr_earth_dirty.yy",},},

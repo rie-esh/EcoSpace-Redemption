@@ -8,8 +8,8 @@
   "name":"obj_level_select",
   "overriddenProperties":[],
   "parent":{
-    "name":"ESRe",
-    "path":"ESRe.yyp",
+    "name":"objects",
+    "path":"folders/objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
