@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"engine_Rocket_sound",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":10.659343,
+  "exportDir":"",
+  "name":"engine_Rocket_sound",
+  "parent":{
+    "name":"music",
+    "path":"folders/music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"engine_Rocket_sound.mp3",
+  "volume":1.0,
+}

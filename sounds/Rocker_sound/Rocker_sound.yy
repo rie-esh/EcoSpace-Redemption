@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Rocker_sound",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":7.8720183,
+  "exportDir":"",
+  "name":"Rocker_sound",
+  "parent":{
+    "name":"music",
+    "path":"folders/music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Rocker_sound.mp3",
+  "volume":1.0,
+}

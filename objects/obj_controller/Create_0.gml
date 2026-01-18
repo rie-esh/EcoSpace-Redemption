@@ -1,3 +1,15 @@
+// Фиксируем размер окна 1280x720
+window_set_size(1280, 720);
+window_set_position(100, 100);  // Центр экрана (опционально)
+
+// Pixel perfect: GUI и surface под размер окна
+display_set_gui_size(1280, 720);
+surface_resize(application_surface, 1280, 720);
+
+// Запрет resize (опционально, для demo)
+window_set_fullscreen(false);
+window_set_resizable(false);
+
 // Инициализация глобальных переменных для прогресса
 global.level1_done = false;
 global.level2_done = false;
