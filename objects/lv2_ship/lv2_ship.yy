@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"lv1_player",
+  "%Name":"lv2_ship",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"lv1_player",
+  "name":"lv2_ship",
   "overriddenProperties":[],
   "parent":{
     "name":"player objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_player",
-    "path":"sprites/spr_player/spr_player.yy",
+    "name":"spr_rocketship",
+    "path":"sprites/spr_rocketship/spr_rocketship.yy",
   },
   "spriteMaskId":null,
   "visible":true,

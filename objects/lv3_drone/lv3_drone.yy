@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"lv1_player",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"lv3_drone",
+  "eventList":[],
   "managed":true,
-  "name":"lv1_player",
+  "name":"lv3_drone",
   "overriddenProperties":[],
   "parent":{
     "name":"player objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_player",
-    "path":"sprites/spr_player/spr_player.yy",
+    "name":"spr_drone",
+    "path":"sprites/spr_drone/spr_drone.yy",
   },
   "spriteMaskId":null,
   "visible":true,

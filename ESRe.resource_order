@@ -7,6 +7,8 @@
     {"name":"sprites","order":6,"path":"folders/sprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"lv2_ship","order":2,"path":"objects/lv2_ship/lv2_ship.yy",},
+    {"name":"lv3_drone","order":3,"path":"objects/lv3_drone/lv3_drone.yy",},
     {"name":"obj_level_select","order":1,"path":"objects/obj_level_select/obj_level_select.yy",},
     {"name":"intro","order":4,"path":"rooms/intro/intro.yy",},
     {"name":"level_select","order":5,"path":"rooms/level_select/level_select.yy",},
@@ -39,12 +41,13 @@
     {"name":"spr_checkmark","order":7,"path":"sprites/spr_checkmark/spr_checkmark.yy",},
     {"name":"spr_debris","order":6,"path":"sprites/spr_debris/spr_debris.yy",},
     {"name":"spr_drone","order":5,"path":"sprites/spr_drone/spr_drone.yy",},
+    {"name":"spr_earth_clean1","order":2,"path":"sprites/spr_earth_clean1/spr_earth_clean1.yy",},
     {"name":"spr_earth_clean2","order":1,"path":"sprites/spr_earth_clean2/spr_earth_clean2.yy",},
     {"name":"spr_earth_clean3","order":3,"path":"sprites/spr_earth_clean3/spr_earth_clean3.yy",},
-    {"name":"spr_erath_clean1","order":2,"path":"sprites/spr_erath_clean1/spr_erath_clean1.yy",},
     {"name":"spr_pipe","order":4,"path":"sprites/spr_pipe/spr_pipe.yy",},
     {"name":"spr_player","order":2,"path":"sprites/spr_player/spr_player.yy",},
     {"name":"spr_pollution","order":3,"path":"sprites/spr_pollution/spr_pollution.yy",},
+    {"name":"spr_rocketship","order":9,"path":"sprites/spr_rocketship/spr_rocketship.yy",},
     {"name":"spr_test_bg","order":8,"path":"sprites/spr_test_bg/spr_test_bg.yy",},
   ],
 }

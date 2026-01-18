@@ -1,0 +1,1 @@
+speed = 0; direction = 0; // Thrust/rotate
